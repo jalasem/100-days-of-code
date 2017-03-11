@@ -131,7 +131,7 @@ function largestOfFour(arr) {
 largestOfFour([[4, 5, 1, 3], [13, 27, 18, 26], [32, 35, 37, 39], [1000, 1001, 857, 1]]);
 ```
 
-### Repeatinf String n-times
+### Repeating String n-times
 
 **Solution**
 --------------
@@ -146,5 +146,24 @@ function repeatStringNumTimes(str, num) {
 }
 
 repeatStringNumTimes("abc", 3);
+```
+
+### Truncate String
+**Solution**
+-------------
+
+```
+function truncateString(str, num) {
+  // Clear out that junk in your trunk
+  if((str.length > num) && (num > 3)) {
+    return str.slice(0, (num - 3)) + "...";
+  } else if((str.length > num) && (num <= 3)) {
+    return str.slice(0, num) + "...";
+  }else {
+    return str;
+  }
+}
+
+truncateString("A-tisket a-tasket A green and yellow basket", 11);
 ```
 
