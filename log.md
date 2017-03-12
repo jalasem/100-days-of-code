@@ -2,7 +2,7 @@
 
 ### Day 0: March 11, 2017
 
-**Today's Progress**: Embarked on a Journey to fix up my javascript. Being realistic and honest to myself, I took a lot of drills at FCC to polish my skills and [here](freecodecamp/bonfire.md) is a little of those thing I learnt. I also made a [Boilerplate for Materializecss, ionicons, animatecss and fontawesome icon](https://github.com/jalasem/materializecss_starter) to make Material front-end design as easy and quick as possible.
+**Today's Progress**: Embarked on a Journey to fix up my javascript fundamentals. Being realistic and honest to myself, I took a lot of drills at FCC to polish my skills and [here](freecodecamp/bonfire.md) is a little of those thing I learnt. I also made a [Boilerplate for Materializecss, ionicons, animatecss and fontawesome icon](https://github.com/jalasem/materializecss_starter) to make Material front-end design as easy and quick as possible.
 
 **Thoughts:** I was kind of challenging at the beginning. Could'nt believe I lost my grip of the fundamentals but rihgt now I am gaining back my confidence grdaually. This is really amazing!!!.
 
